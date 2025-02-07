@@ -31,7 +31,7 @@
 - ❤️ Love to Code😋
 - ⚡ Interested  to develop beautiful web applications
 - 👯 Looking to collaborate on **Front-End development**
-- 🌱 Currently learning Redux
+- 🌱 Currently learning Node JS
 - ⚙️ In love with Open Source
 - ☕️ Coffee and coding goes side by side for me
 <!--- 👨‍💻 [Portfolio](https://www.wajidfareed.com/#projects)-->
